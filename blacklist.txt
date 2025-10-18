@@ -119,8 +119,6 @@ fr5.frmdom.com
 fr7.frmdom.com
 fr8.frmdom.com
 fr9.frmdom.com
-garry.sgaas.net
-go.sexfortokens.com
 gr11.prmdom.com
 gr12.prmdom.com
 gr14.prmdom.com
@@ -212,7 +210,6 @@ in23.prmdom.com
 in24.prmdom.com
 in25.prmdom.com
 in27.prmdom.com
-insanitycheats.com
 ips.osnova.news
 is5.prmdom.com
 is6.prmdom.com
@@ -381,13 +378,7 @@ usw19.prmdom.com
 usw20.prmdom.com
 usw21.prmdom.com
 usw22.prmdom.com
-voli.me
-wmiprvse.netis.cc
-workgroup.netis.cc
-wpad.netis.cc
-www.sportskeeda.com
-yandex.com
-yandex.ru
 za11.prmdom.com
 za8.prmdom.com
 za9.prmdom.com
+
